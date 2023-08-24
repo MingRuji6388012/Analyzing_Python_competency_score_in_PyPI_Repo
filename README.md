@@ -7,6 +7,7 @@
 - This script is used to create the list of all Python commits in the provided repository URL in variable''repo_url```.
 - Firstly, this code
 
+---
 ## What is this project?
 - This repo is the project I conducted during my internship at Nara Institute of Science and Technology, Japan.
 
