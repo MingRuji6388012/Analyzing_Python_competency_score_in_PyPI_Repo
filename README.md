@@ -1,13 +1,6 @@
 # Analyzing the code competency of Python scripts in PyPI project GitHub repository using PyCefr and PyDriller.
 
 ---
-## Description
-1) ### ```All_python_commits.py```
-- This is the first python script you need to run.
-- This script is used to create the list of all Python commits in the provided repository URL in variable''repo_url```.
-- Firstly, this code
-
----
 ## What is this project?
 - This repo is the project I conducted during my internship at Nara Institute of Science and Technology, Japan.
 
@@ -29,4 +22,4 @@
 - Edit the ```output_folder_added``` to the folder you need to contain "added" section of Python code in each commit.
 - Edit the ```output_folder_deleted``` to the folder you need to contain "deleted" section of Python code in each commit.
 - Run the script (This step may take 3-5 minutes to collect data).
-- After running the script, you will get 3 folders (one contains python codes recorded in the attribute "added" from each commit, one contains codes in the attribute "deleted", and one contains code combined both "added" and "deleted".
+- After running the script, you will get 3 folders (one contains python codes recorded in the attribute "added" from each commit, one contains codes in the attribute "deleted", and one contains code combined with both "added" and "deleted".
