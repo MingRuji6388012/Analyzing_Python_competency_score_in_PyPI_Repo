@@ -7,7 +7,7 @@
 ## How to run (Step-by-step)
 1) ### In ```All_python_commits.py```
 - Edit the ```repo_url``` to the "GitHub repository URL.git" you need to collect data.
-- ```output_folder``` to the path to the directory you need to record the data.
+- Edit ```output_folder``` to the path to the directory you need to record the data.
 - Run the script (This step may take 3-5 hours to collect data).
 - After running the script, you will get the CSV file named ```all_python_commits.csv``` which records attributes we can get in PyDriller. 
 
