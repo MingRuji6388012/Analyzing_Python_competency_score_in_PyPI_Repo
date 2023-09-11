@@ -6,6 +6,8 @@ import os
 input_csv_file = '/work/Ming_PyDrillerPythonFileCommitHistory/Apache Airflow/all_python_commits.csv'
 output_folder = '/work/Ming_PyDrillerPythonFileCommitHistory/Apache Airflow/'
 
+# Expand the field size to eligible for collecting all commits 
+# This is the commend I added to demonstrate how code diff works   
 csv.field_size_limit(2000000)
 
 def replace_none_values(data):
